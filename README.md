@@ -28,6 +28,8 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 
 # 세미나 2. 눈문에 근거한 QnA 엔진 구축
 - 임베딩 방법 [practice/how_to_embedding.ipynb](practice/how_to_embedding.ipynb)
+- 임베딩을 사용한 분류 [practice/classification_using_embedding.ipynb](practice/classification_using_embedding.ipynb)
+- 임베딩을 사용한 추천 [practice/recommendation_using_embedding.ipynb](practice/recommendation_using_embedding.ipynb)
 - 논문 기반한 QnA 구현 : [practice/task2_customer_qna_engine.ipynb](practice/task2_customer_qna_engine.ipynb)
 
 
